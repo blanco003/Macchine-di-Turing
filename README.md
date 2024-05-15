@@ -3,39 +3,39 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 # Esercizi mdt
 1) 
-$\\$
+
+
 
 2) 
 
-$\\$
 
-3) $\ f(x,y) = x + y$ (unario, in modo standard)  $\\$
-$\ f(x,y) = x + y$ (in binario, funziona senza copiatrice altrimenti se serve più spazio finisce nell'input)
-$\\$
+
+3) $\ f(x,y) = x + y$ (unario, in modo standard) (in binario, funziona senza copiatrice altrimenti se serve più spazio finisce nell'input)
+
 
 4) 
 
-$\\$
+
 
 5) 
 
-$\\$
 
-6) $\  \#(1) = \#(0)$
-$\\$
+6) #(1) = #(0)
 
-7) 
-$\\$
 
+7)   
+
+  
 8) 
-$\\$
+
+
 
 9) 
 
-$\\$
+
 
 10) $\ a^n b^n c^{n+1} , n>0$
-$\\$
+
 
 
 # Esercizi vari
