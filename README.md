@@ -10,8 +10,7 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 
 
-3) $\ f(x,y) = x + y$ (unario, in modo standard) (in binario, funziona senza copiatrice altrimenti se serve più spazio finisce nell'input)
-
+3) $\ f(x,y) = x + y$ (unario,standard)  (binario,standard)
 
 4) 
 
