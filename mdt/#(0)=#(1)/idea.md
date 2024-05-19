@@ -1,0 +1,4 @@
+- Riscrivo l'input a distanza 1 ordinando prima tutti gli 0 poi tutti gli 1
+- Ora si tratta di riconoscere il linguaggio $0^n1^n$ :
+    - segno uno 0 un 1  alla volta 
+- se nessun simbolo è rimasto non segnato allora acceta
