@@ -6,13 +6,13 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 
 
-2) 
+2) $\ f(x,y) = \max(x,y)$ (unario,standard) (binario non funzionante)
 
 
 
 3) $\ f(x,y) = x + y$ (unario,standard)  (binario,standard)
 
-4) 
+4) $\ f(x,y) = x - y$ , dove "-" è la sottrazione chiusa. (binaria,standard)
 
 
 
