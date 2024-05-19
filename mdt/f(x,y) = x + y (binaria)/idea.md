@@ -1,0 +1,6 @@
+- imposta come separatore sinistro $ e come separatore destro #
+- copia l'input a sinistra (per evitare eventuali riporti)
+- effettua l'addizione dei due operandi :
+    - decrementa di 1 il secondo operando ed incrementa di 1 il primo operando fine a terminare tutte le cifre del secondo operando
+- copia il risultato a destra
+- ripulisce il nastro a sinistra dell'input , si posiziona sulla prima cella del risultato ed accetta

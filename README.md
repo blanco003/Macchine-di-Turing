@@ -2,7 +2,7 @@
 Macchine di Turing implementate in preparazione della prova di laboratorio di Calcolabilità e Complessità (A-L 23/24)
 
 # Esercizi mdt
-1) $\ f(x,y) = \ \mid x - y \mid $ (binaria,standard)
+1) $\ f(x,y) = \ \mid x - y \mid$ (binaria,standard)
 
 
 
