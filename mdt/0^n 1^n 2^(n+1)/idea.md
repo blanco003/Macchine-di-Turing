@@ -1,0 +1,9 @@
+- segna uno 0 un 1 e un 2 alla volta fino a terminare i caratteri, tranne l'ultimo 2 : 
+    - segna uno 0 con X
+    - scavalca tutti gli 0 restanti, e tutte le Y (1 già segnati)
+    - segna un 1 con Y
+    - scavalca tutti gli 1 restanti, e tutte le Z (2 già segnati)
+    - segna un 2 con Z
+    - torna indietro fino ad incontrare la prima X
+        - se ci sono ancora 0 non segnati allora ricomincia la segnatura
+        - se sono rimaste solo X, Y, e Z ed un solo 2 finale allora accetta

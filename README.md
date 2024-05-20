@@ -6,11 +6,11 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 
 
-2) $\ f(x,y) = \text{max}(x,y)$ (unario,standard) (binario non funzionante)
+2) $\ f(x,y) = \text{max}(x,y)$ (unaria,standard) (binaria non funzionante)
 
 
 
-3) $\ f(x,y) = x + y$ (unario,standard)  (binario,standard)
+3) $\ f(x,y) = x + y$ (unaria,standard)  (binaria,standard)
 
 4) 
 
@@ -25,11 +25,11 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 7) #(0) = #(1) = #(2)
 
   
-8) 
+8) $\ f(x,y) = x \cdot y$ (unaria,standard)
 
 
 
-9) $\ f(x) = x + 1$ (in binario)
+9) $\ f(x) = x + 1$ (binaria)
 
 
 
@@ -39,11 +39,17 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 # Esercizi vari
 - Copiatrice unaria/binaria a distanza
+
 - $a^n \ b^n \ c^n \ | n > 0$
+
 - $a^{2n}\ b^n \ | n > 0$
+
 - f(x) = 2x
-- 
+
 - f(x) = x - 1 (in binario)
+
 - ww : foto, ancora da fare in jlap
+
 - max(x,y) in unario (da controllare)
+
 - w#w

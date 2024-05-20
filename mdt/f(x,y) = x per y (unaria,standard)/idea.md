@@ -1,0 +1,6 @@
+- controlla se uno dei 2 operandi è 0 : 
+    - se si arriva alla fine dell'input, imposta un separatore, scrive 0 ed accetta
+- se nessuno dei due operandi è 0 :
+    - segna un simbolo del primo operando, riscrivi tutti i simboli del secondo operando in coda al risultato
+    - ritorna al simbolo segnato, riscrive il simbolo e si sposta a destra
+    - se incontra lo 0 separatore, si sposta a destra fino al primo carattere del risultato ed accetta
