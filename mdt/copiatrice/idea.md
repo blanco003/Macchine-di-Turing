@@ -1,0 +1,8 @@
+- scorri tutto l'input ed imposta un separatore finale #
+- riposiziona la testina sul primo simbolo di input
+- segna il simbolo incontrato, a con X e b con Y (si potrebbe usare un solo carattere)
+- spostati alla fine di tutti i simboli
+- sostituisci $\square$ con il simbolo segnato
+- spostati a sinistra fino ad incontare il simbolo segnato, sostituiscilo con il simbolo originale e spostati a destra
+    - se ci sono altri simboli da marcare ricomincia
+- se incontri # spostati a destra (sul primo carattere dell'input copiato) ed accetta
