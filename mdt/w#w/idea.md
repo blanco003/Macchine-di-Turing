@@ -1,0 +1,12 @@
+- segno un simbolo alla volta con X
+- mi sposto a destra fino ad incontrare il separatore #
+- mi sposto a destra finchè incontro simboli già segnati con X
+    - se incontro il simbolo segnato in partenza lo segno con X
+    - se incontro un simbolo diverso allora mi fermo (rifiuta, le 2 parole non coincidono)
+- mi sposto a sinistra fino ad incontrare il separatore #
+- mi sposto a sinistra finchè non incontro l'ultimo simbolo segnato e mi sposto a destra
+    - se ci sono altri simboli da segnare, ricomincio il procedimento
+    - se incontro # mi sposto a destra
+        - mi continuo a spostare a destra leggendo X
+        - se incontro un simbolo non segnato allora mi fermo (rifiuta, la prima parola è finita ma la seconda no)
+        - se incontro $\square$ ho terminato entrambe le parole, allora accetto
