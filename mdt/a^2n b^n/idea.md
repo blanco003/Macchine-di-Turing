@@ -1,0 +1,5 @@
+- segna 2 a alla volta con X
+- scavalca tutte la a rimanenti, e tutte le Y (b già segnate)
+- segna una b con Y, e torna indietro fino ad incontrare X per spostarsi a destra
+    - se sono rimaste ancora a ricomincia
+    - se incontriamo Y, controlliamo non siano rimaste b da segnare ed accettiamo
