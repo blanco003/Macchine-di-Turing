@@ -10,7 +10,7 @@
     - se non ha più cifra da decrementare, avevo già decrementato il primo operando quindi devo tornare ad incrementarlo e spostarmi nello stato per la copiatura del risultato
 
 - mi posiziono sull'ultimo simbolo dell'input copiato e mi sposto verso sinistra
-    - se il secondo operando è terminato (soli 0 trasformati in 1) lo trasformo in $\sqaure$ e mi sposto nello stato per la copiatura del risultato
+    - se il secondo operando è terminato (soli 0 trasformati in 1) lo trasformo in $\square$ e mi sposto nello stato per la copiatura del risultato
     - se il secondo opernado ha almeno una cifra uguale ad 1 ricomincio il procedimento
 
 - copiatura del risultato 
