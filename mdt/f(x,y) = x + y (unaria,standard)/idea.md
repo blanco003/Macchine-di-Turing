@@ -3,7 +3,7 @@
 - se incontri 1 
     - segnalo con X
     - spostati a destra leggendo tutti i simboli
-    - sostituisci $\blank$ con 1 
+    - sostituisci $\square$ con 1 
     - spostati a sinistra fino ad incontrare X, sostituiscilo con 1 e spostati a destra
 - se incontri 0 vai semplicemente a destra
 - se incontri # spostati a destra ed accetta
