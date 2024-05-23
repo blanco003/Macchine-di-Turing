@@ -12,7 +12,7 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 3) $\ f(x,y) = x + y$ (unaria,standard)  (binaria,standard)
 
-4) 
+4) $\ f(x,y,z) = x + y + z$ (unaria,standard)
 
 
 

@@ -1,0 +1,8 @@
+- scorro tutto l'input e imposto # come separatore finale
+- mi riposizioni sul primo simbolo di input
+- se è 1 lo segno con X, scorro tutto il nastro, sostituisco $\square$ con 1, torno indietro fino ad incontare X, lo reimposto ad 1 e mi sposto avanti
+- se è 0 mi sposto a destra  (ho finito il primo operando)
+- se è 1 lo segno con X, scorro tutto il nastro, sostituisco $\square$ con 1, torno indietro fino ad incontare X, lo reimposto ad 1 e mi sposto avanti
+- se è 0 mi sposto a destra  (ho finito il secondo operando)
+- se è 1 lo segno con X, scorro tutto il nastro, sostituisco $\square$ con 1, torno indietro fino ad incontare X, lo reimposto ad 1 e mi sposto avanti
+- se è # (ho finito il terzo operando) ho finito di esaminare l'input, mi sposto a destra sul primo simbolo del risultato ed accetto
