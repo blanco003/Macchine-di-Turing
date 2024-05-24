@@ -36,6 +36,9 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 10) $\ a^n b^n c^{n+1} , n>0$
 
 
+# Tracce Laboratorio 2022/2023
+- $\ f(x,y) = \text{min}(x,y,z)$ (unaria,standard) 
+
 
 # Esercizi vari
 - Copiatrice unaria/binaria a distanza
