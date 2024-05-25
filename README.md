@@ -6,7 +6,7 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 
 
-2) $\ f(x,y) = \text{max}(x,y)$ (unaria,standard) (binaria non funzionante)
+2) $\ f(x,y) = \text{max}(x,y)$ (unaria,standard)
 
 
 
