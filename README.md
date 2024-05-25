@@ -2,7 +2,7 @@
 Macchine di Turing implementate in preparazione della prova di laboratorio di Calcolabilità e Complessità (A-L 23/24)
 
 # Esercizi mdt
-1) $\ f(x,y) = \ \mid x - y \mid$ (binaria,standard)
+1) $\ f(x,y) = \ \mid x - y \mid$ (binaria,standard)  (unaria,standard)
 
 
 
@@ -39,6 +39,7 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 # Tracce Laboratorio 2022/2023
 - $\ f(x,y) = \text{min}(x,y,z)$ (unaria,standard) 
 - OR bit a bit
+- Tra gli esercizi precedenti 1) , 3), 5), 7)
 
 
 # Esercizi vari
