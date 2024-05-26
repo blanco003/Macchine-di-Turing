@@ -1,0 +1,4 @@
+- imposta # come separatore destro
+- riposizionati sul primo simbolo di input
+    - se incontri 1 segnalo con X, spostati a destra scorrendo tutto il nastro, scrivi in 2 $\square$ consecutivi 1, torna indietro fino ad incontrare X, riscrivilo in 1 e spostati a sinistra
+    - se incontri # spostati a destra sul primo simbolo del risultato ed accetta
