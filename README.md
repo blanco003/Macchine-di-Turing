@@ -37,7 +37,8 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 
 
 # Tracce Laboratorio 2022/2023
-- $\ f(x,y) = \text{min}(x,y,z)$ (unaria,standard) 
+- $\ f(x,y,z) = \text{min}(x,y,z)$ (unaria,standard) 
+- $\ f(x,y,z) = \text{max}(x,y,z)$ (unaria,standard) 
 - OR bit a bit
 - Tra gli esercizi precedenti 1) , 3), 5), 7)
 
