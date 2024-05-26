@@ -1,4 +1,4 @@
-- imposto $\$$ come separatore sinistro e # come separatore destro
+- imposto $ come separatore sinistro e # come separatore destro
 - copio l'input a sinistra e mi sposto sull'ultimo simbolo dell'input copiato
     - se è 0 lo trasformo in 1
     - se è 1 lo trasformo in 0, e continuo a scorrere verso sinistra trasformando ogni 1 in 0
