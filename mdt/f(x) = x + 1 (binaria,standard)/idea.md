@@ -1,0 +1,7 @@
+- imposto $\$$ come separatore sinistro e # come separatore destro
+- copio l'input a sinistra e mi sposto sull'ultimo simbolo dell'input copiato
+    - se è 0 lo trasformo in 1
+    - se è 1 lo trasformo in 0, e continuo a scorrere verso sinistra trasformando ogni 1 in 0
+        - se incontro 0 lo trasformo in 1
+        - se incontro $\square$ lo trasformo in 1
+- mi posiziono sul primo simbolo del risultato, lo copio alla fine del nastro, ripulisco il nastro, mi sposto sul primo simbolo del risultato copiato ed accetto
