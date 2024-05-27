@@ -1,0 +1,5 @@
+- imposto come separatore sinistro $ e destro #
+- copio l'input a sinistra
+- sottraggo 1 dal terzo opernado e aggiungo 1 al primo operando finchè non finisce il terzo operando e lo cancello
+- sottraggo 1 dal secondo opernado e aggiungo 1 al primo operando finchè non finisce il secondo operando e lo cancello
+- copio il risultato a destra, ripulisco il nastro ed accetto
