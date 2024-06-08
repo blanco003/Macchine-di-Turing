@@ -50,5 +50,5 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 - $a^{2n}\ b^n \ | n > 0$
 - $\ f(x) = 2x$ (unaria,standard)
 - $\ f(x) = x - 1$ (binaria,standard)
-- $w\#w$
-- $w\#w^R$
+- $w$ # $w$
+- $w$ # $w^R$
