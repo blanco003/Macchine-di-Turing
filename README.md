@@ -44,7 +44,8 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 - palindroma (anche dispari)
 
 # Tracce Laboratorio 2023/2024
-- 12/6/23 : Calcolare in modo standard $\ f(n)=n+2$ , con $n$ in binario
+- 12/6/23 , 1): Calcolare in modo standard $\ f(n)=n+2$ , con $n$ in binario
+- 12/6/23 , 2): Calcolare in modo standard $\ f(n)=n-1$ , con $n$ in binario
 
 
 # Esercizi vari
