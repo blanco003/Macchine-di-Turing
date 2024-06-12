@@ -43,6 +43,9 @@ Macchine di Turing implementate in preparazione della prova di laboratorio di Ca
 - Tra gli esercizi precedenti 1) , 3), 5), 7)
 - palindroma (anche dispari)
 
+# Tracce Laboratorio 2023/2024
+- 12/6/23 : Calcolare in modo standard $\ f(n)=n+2$ , con $n$ in binario
+
 
 # Esercizi vari
 - Copiatrice unaria/binaria a distanza
